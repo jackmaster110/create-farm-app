@@ -1,5 +1,6 @@
 {
-  "name": "@jackmaster110/create-farm-app",
+  "name": "create-farm-app",
+  "private": false,
   "version": "0.1.0",
   "description": "npm and yarn starter kit to create a farm stack app",
   "main": "src/index.js",
@@ -12,7 +13,6 @@
     "template"
   ],
   "bin": {
-    "@jackmaster110/create-farm-app": "./bin/create-farm-app",
     "create-farm-app": "./bin/create-farm-app"
   },
   "dependencies": {
