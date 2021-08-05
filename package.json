@@ -6,6 +6,11 @@
   "repository": "https://github.com/jackmaster110/create-farm-app",
   "author": "Samuel Shear",
   "license": "MIT",
+  "files": [
+    "src",
+    "bin",
+    "template"
+  ],
   "bin": {
     "@jackmaster110/create-farm-app": "./bin/create-farm-app",
     "create-farm-app": "./bin/create-farm-app"
